@@ -31,5 +31,5 @@ This is a web-based application that predicts future stock prices using a deep l
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/stock-price-predictor.git
+git clone https://github.com/AK-RoXX/StockMarketPrediction.git
 cd stock-price-predictor
