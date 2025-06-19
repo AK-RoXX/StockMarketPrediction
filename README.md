@@ -1,6 +1,3 @@
-generate a markdown file for this and format properly:
-
-format this:
 # 📈 Stock Price Prediction Web App
 
 This is a web-based application that predicts future stock prices using a deep learning model. It also visualizes historical stock data and moving averages. Built using **Flask**, **Keras**, and **Yahoo Finance API**, the app provides a simple interface for analyzing stock trends and forecasting prices.
