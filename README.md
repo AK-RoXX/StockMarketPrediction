@@ -33,3 +33,26 @@ This is a web-based application that predicts future stock prices using a deep l
 ```bash
 git clone https://github.com/AK-RoXX/StockMarketPrediction.git
 cd stock-price-predictor
+
+### 2. (Optional) Create a virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+### 4. Ensure the trained model is present
+Make sure the file stock_dl_model.h5 is in the root directory. This is the pre-trained LSTM model used for predictions.
+
+### 5. Run the Flask application
+
+```bash
+python app.py
+
+### 6. Open your browser
+Go to http://127.0.0.1:5000 to access the web interface.
+
